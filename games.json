@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "World Flight 2",
+    "image": "https://example.com/images/1.webp"
+  },
+  {
+    "id": 2,
+    "title": "Crash",
+    "image": "https://example.com/images/2.webp"
+  }
+]
